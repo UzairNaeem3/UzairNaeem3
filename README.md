@@ -18,8 +18,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,django,fastapi,flask,git,gitlab,githubactions,gcp,aws,azure,linux,postgres,mysql,mongodb,docker,kubernetes,html,css,cpp,py,js,pytorch,tensorflow,opencv,sklearn,postman,kafka,raspberrypi,&perline=14)](https://skillicons.dev)
-
-
 [![](https://raw.githubusercontent.com/UzairNaeem3/UzairNaeem3/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/UzairNaeem3/UzairNaeem3/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/UzairNaeem3/UzairNaeem3/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/UzairNaeem3/UzairNaeem3/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/UzairNaeem3/UzairNaeem3/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
