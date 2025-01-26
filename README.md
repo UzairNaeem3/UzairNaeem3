@@ -4,7 +4,7 @@
 
 <h4 align="left">A passionate AI Engineer from Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairnaeem3&label=Profile%20views&color=0e75b6&style=flat" alt="uzairnaeem3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairnaeem3&label=Profile%20Views&color=0e75b6&style=flat&abbreviated=true" alt="uzairnaeem3" /> </p>
 
 - 🔭 I’m currently working on **LLMs, and Deep Learning**
   
